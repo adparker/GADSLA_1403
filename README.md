@@ -20,35 +20,35 @@ Here, you'll find links to slides, handouts, and other material.
 
 ### Class 02 (2014-03-06): Data Storage & Extraction
 
-### Class 03 (2014-03-11):
+### Class 03 (2014-03-11): Python & Data Manipulation
 
-### Class 04 (2014-03-13):
+### Class 04 (2014-03-13): Data Visualization
 
-### Class 05 (2014-03-18):
+### Class 05 (2014-03-18): Introduction to Machine Learning
 
-### Class 06 (2014-03-20):
+### Class 06 (2014-03-20): Linear Regression
 
-### Class 07 (2014-03-25):
+### Class 07 (2014-03-25): Logistic Regression & Regularization
 
-### Class 08 (2014-03-27):
+### Class 08 (2014-03-27): Naive Bayes & Bayesian Estimators
 
-### Class 09 (2014-04-01):
+### Class 09 (2014-04-01): Decision Trees and Random Forests
 
-### Class 10 (2014-04-03):
+### Class 10 (2014-04-03): Classification Review
 
-### Class 11 (2014-04-08):
+### Class 11 (2014-04-08): Ensemble Learning
 
-### Class 12 (2014-04-10):
+### Class 12 (2014-04-10): K-Means Clustering
 
-### Class 13 (2014-04-15):
+### Class 13 (2014-04-15): PCA & Unsupervised Learning
 
-### Class 14 (2014-04-17):
+### Class 14 (2014-04-17): Recommendation Systems
 
-### Class 15 (2014-04-22):
+### Class 15 (2014-04-22): Further Topics in Unsupervised Learning
 
-### Class 16 (2014-04-24):
+### Class 16 (2014-04-24): Hadoop
 
-### Class 17 (2014-04-29):
+### Class 17 (2014-04-29): Distributed Data Processing
 
 ### Class 18 (2014-05-01):
 
