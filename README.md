@@ -17,6 +17,10 @@ Here, you'll find links to slides, handouts, and other material.
 - [General Resources](https://github.com/adparker/GADSLA_1403/wiki/General-Resources): Links to Python and other tools and libraries that we'll be using.
 
 ### Class 01 (2014-03-04): Introduction to Data Science & Basic Data Manipulation
+#### Slides
+[Lesson 01 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gads1403_lesson01.pdf?raw=true)
+#### Handouts
+#### Links
 
 ### Class 02 (2014-03-06): Data Storage & Extraction
 
