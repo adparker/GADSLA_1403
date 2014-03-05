@@ -23,6 +23,8 @@ Here, you'll find links to slides, handouts, and other material.
 
 #### Handouts
 
+- [Command Line Tutorial](https://github.com/adparker/GADSLA_1403/wiki/Command-line-tutorial)
+
 #### Links
 
 ### Class 02 (2014-03-06): Data Storage & Extraction
