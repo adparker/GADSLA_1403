@@ -27,7 +27,11 @@ Here, you'll find links to slides, handouts, and other material.
 
 #### Links
 
-### Class 02 (2014-03-06): Data Storage & Extraction
+- [How to Start Thinking Like a Data Scientist](http://blogs.hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist/)
+- [Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
+- [Command-Line Data Manipulation](http://planspace.org/2013/05/21/command-line-data-manipulation/)
+
+### Class 02 (2014-03-06): Python & Data Storage
 
 ### Class 03 (2014-03-11): Python & Data Manipulation
 
