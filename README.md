@@ -32,6 +32,13 @@ Here, you'll find links to slides, handouts, and other material.
 - [Command-Line Data Manipulation](http://planspace.org/2013/05/21/command-line-data-manipulation/)
 
 ### Class 02 (2014-03-06): Python & Data Storage
+#### Slides
+
+#### Handouts
+
+#### Links
+
+---
 
 ### Class 03 (2014-03-11): Python & Data Manipulation
 
