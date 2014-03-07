@@ -32,9 +32,14 @@ Here, you'll find links to slides, handouts, and other material.
 - [Command-Line Data Manipulation](http://planspace.org/2013/05/21/command-line-data-manipulation/)
 
 ### Class 02 (2014-03-06): Python & Data Storage
+
 #### Slides
+- [Lesson 02 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson02.pdf?raw=true)
 
 #### Handouts
+
+- [Python Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/Python-Tutorial-01)
+- [ETL Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/ETL-Tutorial-01--Amazon-Movie-Reviews)
 
 #### Links
 
