@@ -16,7 +16,7 @@ Here, you'll find links to slides, handouts, and other material.
 
 - [General Resources](https://github.com/adparker/GADSLA_1403/wiki/General-Resources): Links to Python and other tools and libraries that we'll be using.
 
-### Class 01 (2014-03-04): Introduction to Data Science & Basic Data Manipulation
+### Class 1 (2014-03-04): Introduction to Data Science & Basic Data Manipulation
 #### Slides
 
 - [Lesson 01 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson01.pdf?raw=true)
@@ -31,7 +31,7 @@ Here, you'll find links to slides, handouts, and other material.
 - [Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
 - [Command-Line Data Manipulation](http://planspace.org/2013/05/21/command-line-data-manipulation/)
 
-### Class 02 (2014-03-06): Python & Data Parsing
+### Class 2 (2014-03-06): Python & Data Parsing
 
 #### Slides
 - [Lesson 02 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson02.pdf?raw=true)
@@ -43,7 +43,7 @@ Here, you'll find links to slides, handouts, and other material.
 
 
 
-### Class 03 (2014-03-11): SQL & Python
+### Class 3 (2014-03-11): SQL & Python
 
 #### Slides
 
@@ -68,20 +68,23 @@ Here, you'll find links to slides, handouts, and other material.
   - [Amazon RDS Getting Started](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html)
   - [Video Tutorial of RDS](https://www.youtube.com/watch?v=FLY87sQtEts)
 
+- Something Funny
+  - [Mom Exploits, XKCD Comic](http://xkcd.com/327/)
+  
 ---
 
 
-### Class 04 (2014-03-13): NoSQL & Python
+### Class 4 (2014-03-13): NoSQL & Python
 
-### Class 05 (2014-03-18): Introduction to Machine Learning
+### Class 5 (2014-03-18): Introduction to Machine Learning
 
-### Class 06 (2014-03-20): Linear Regression
+### Class 6 (2014-03-20): Linear Regression
 
-### Class 07 (2014-03-25): Logistic Regression & Regularization
+### Class 7 (2014-03-25): Logistic Regression & Regularization
 
-### Class 08 (2014-03-27): Naive Bayes & Bayesian Estimators
+### Class 8 (2014-03-27): Naive Bayes & Bayesian Estimators
 
-### Class 09 (2014-04-01): Decision Trees and Random Forests
+### Class 9 (2014-04-01): Decision Trees and Random Forests
 
 ### Class 10 (2014-04-03): Classification Review
 
