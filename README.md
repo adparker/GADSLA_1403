@@ -70,7 +70,7 @@ Here, you'll find links to slides, handouts, and other material.
   - [Try MongoDB](http://try.mongodb.org/) An online interactive demo of MongoDB
   - [Webinar Getting Started with MongoDB](http://www.mongodb.com/webinar/intro_mongodb_jan14)
   - [Schema Design in MongoDB vs Schema Design in MySQL](http://www.mysqlperformanceblog.com/2013/08/01/schema-design-in-mongodb-vs-schema-design-in-mysql/)
-- [Redis](http://redis.io/)
+- [Redis](http://redis.io/) -- Key-Value Store
   - [Try Redis](http://try.redis.io/) An online interactive demo of Redis
 
 ### Class 5 (2014-03-18): Introduction to Machine Learning
