@@ -63,11 +63,12 @@ Here, you'll find links to slides, handouts, and other material.
 - Python & MySQL Documentation
   - [MySQL Connector/Python Official Docs](http://dev.mysql.com/doc/connector-python/en/index.html)
 
-- Amazon RDS Hosted SQL Service
+- Amazon RDS Hosted SQL Service (Includes MySQL, PostgreSQL, Oracle, and Microsoft SQL Server) 
   - [Amazon RDS](http://aws.amazon.com/rds/)
   - [Amazon RDS Free Usage Tier](http://aws.amazon.com/rds/free/)
   - [Amazon RDS Getting Started](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html)
   - [Video Tutorial of RDS](https://www.youtube.com/watch?v=FLY87sQtEts)
+
 
 - Something Funny
   - [Mom Exploits, XKCD Comic](http://xkcd.com/327/)
@@ -76,6 +77,11 @@ Here, you'll find links to slides, handouts, and other material.
 
 
 ### Class 4 (2014-03-13): NoSQL & Python
+
+#### Links
+- [Try Redis](http://try.redis.io/) An online interactive demo of Redis
+- [Try MongoDB](http://try.mongodb.org/) An online interactive demo of MongoDB
+- [Schema Design in MongoDB vs Schema Design in MySQL](http://www.mysqlperformanceblog.com/2013/08/01/schema-design-in-mongodb-vs-schema-design-in-mysql/)
 
 ### Class 5 (2014-03-18): Introduction to Machine Learning
 
