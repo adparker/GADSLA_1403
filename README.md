@@ -31,7 +31,7 @@ Here, you'll find links to slides, handouts, and other material.
 - [Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
 - [Command-Line Data Manipulation](http://planspace.org/2013/05/21/command-line-data-manipulation/)
 
-### Class 02 (2014-03-06): Python & Data Storage
+### Class 02 (2014-03-06): Python & Data Parsing
 
 #### Slides
 - [Lesson 02 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson02.pdf?raw=true)
@@ -41,11 +41,9 @@ Here, you'll find links to slides, handouts, and other material.
 - [Python Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/Python-Tutorial-01)
 - [ETL Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/ETL-Tutorial-01--Amazon-Movie-Reviews)
 
-#### Links
 
----
 
-### Class 03 (2014-03-11): Python & Data Manipulation
+### Class 03 (2014-03-11): SQL & Python
 
 #### Slides
 
@@ -54,8 +52,29 @@ Here, you'll find links to slides, handouts, and other material.
 - [MySQL & Python Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/MySQL-5-Tutorial-01)
 - [MySQL Exercises using W3 School](https://github.com/adparker/GADSLA_1403/wiki/MySQL-Exercises-Using-W3-School)
 
+#### Links
 
-### Class 04 (2014-03-13): Data Visualization
+SQL Tutorials
+
+- [SQL Zoo - Interactive Tutorial](http://sqlzoo.net/wiki/Main_Page)
+- [SQL Fiddle -  A tool for easy online testing and sharing of database problems and their solutions.](http://sqlfiddle.com/)
+ - [Video Demo of SQLFiddle.com](https://www.youtube.com/watch?v=DDVOMRvyAS4)
+
+Python & MySQL Documentation
+
+- [MySQL Connector/Python Official Docs](http://dev.mysql.com/doc/connector-python/en/index.html)
+
+Amazon RDS Hosted SQL Service
+
+- [Amazon RDS](http://aws.amazon.com/rds/)
+  - [Amazon RDS Free Usage Tier](http://aws.amazon.com/rds/free/)
+  - [Amazon RDS Getting Started](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html)
+  - [Video Tutorial of RDS](https://www.youtube.com/watch?v=FLY87sQtEts)
+
+---
+
+
+### Class 04 (2014-03-13): NoSQL & Python
 
 ### Class 05 (2014-03-18): Introduction to Machine Learning
 
