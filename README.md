@@ -79,9 +79,13 @@ Here, you'll find links to slides, handouts, and other material.
 ### Class 4 (2014-03-13): NoSQL & Python
 
 #### Links
-- [Try Redis](http://try.redis.io/) An online interactive demo of Redis
-- [Try MongoDB](http://try.mongodb.org/) An online interactive demo of MongoDB
-- [Schema Design in MongoDB vs Schema Design in MySQL](http://www.mysqlperformanceblog.com/2013/08/01/schema-design-in-mongodb-vs-schema-design-in-mysql/)
+- [Quick Comparison](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
+- [MongoDB](http://www.mongodb.com/) -- Document Store
+  - [Try MongoDB](http://try.mongodb.org/) An online interactive demo of MongoDB
+  - [Webinar Getting Started with MongoDB](http://www.mongodb.com/webinar/intro_mongodb_jan14)
+  - [Schema Design in MongoDB vs Schema Design in MySQL](http://www.mysqlperformanceblog.com/2013/08/01/schema-design-in-mongodb-vs-schema-design-in-mysql/)
+- [Redis](http://redis.io/)
+  - [Try Redis](http://try.redis.io/) An online interactive demo of Redis
 
 ### Class 5 (2014-03-18): Introduction to Machine Learning
 
