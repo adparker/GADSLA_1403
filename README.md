@@ -19,7 +19,7 @@ Here, you'll find links to slides, handouts, and other material.
 ### Class 1 (2014-03-04): Introduction to Data Science & Basic Data Manipulation
 #### Slides
 
-- [Lesson 01 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson01.pdf?raw=true)
+- [Lesson 1 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson01.pdf?raw=true)
 
 #### Handouts
 
@@ -34,7 +34,7 @@ Here, you'll find links to slides, handouts, and other material.
 ### Class 2 (2014-03-06): Python & Data Parsing
 
 #### Slides
-- [Lesson 02 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson02.pdf?raw=true)
+- [Lesson 2 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson02.pdf?raw=true)
 
 #### Handouts
 
@@ -46,6 +46,7 @@ Here, you'll find links to slides, handouts, and other material.
 ### Class 3 (2014-03-11): SQL & Python
 
 #### Slides
+- [Lesson 3 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson03.pdf?raw=true)
 
 #### Handouts
 
