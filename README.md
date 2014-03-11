@@ -47,6 +47,14 @@ Here, you'll find links to slides, handouts, and other material.
 
 ### Class 03 (2014-03-11): Python & Data Manipulation
 
+#### Slides
+
+#### Handouts
+
+- [MySQL & Python Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/MySQL-5-Tutorial-01)
+- [MySQL Exercises using W3 School](https://github.com/adparker/GADSLA_1403/wiki/MySQL-Exercises-Using-W3-School)
+
+
 ### Class 04 (2014-03-13): Data Visualization
 
 ### Class 05 (2014-03-18): Introduction to Machine Learning
