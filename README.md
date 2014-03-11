@@ -49,8 +49,8 @@ Here, you'll find links to slides, handouts, and other material.
 
 #### Handouts
 
-- [MySQL & Python Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/MySQL-5-Tutorial-01)
 - [MySQL Exercises using W3 School](https://github.com/adparker/GADSLA_1403/wiki/MySQL-Exercises-Using-W3-School)
+- [MySQL & Python Tutorial](https://github.com/adparker/GADSLA_1403/wiki/MySQL-5-Tutorial-01)
 
 #### Links
 
