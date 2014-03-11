@@ -54,19 +54,16 @@ Here, you'll find links to slides, handouts, and other material.
 
 #### Links
 
-##### SQL Tutorials
+- SQL Tutorials
+  - [SQL Zoo - Interactive Tutorial](http://sqlzoo.net/wiki/Main_Page)
+  - [SQL Fiddle -  A tool for easy online testing and sharing of database problems and their solutions.](http://sqlfiddle.com/)
+    - [Video Demo of SQLFiddle.com](https://www.youtube.com/watch?v=DDVOMRvyAS4)
 
-- [SQL Zoo - Interactive Tutorial](http://sqlzoo.net/wiki/Main_Page)
-- [SQL Fiddle -  A tool for easy online testing and sharing of database problems and their solutions.](http://sqlfiddle.com/)
- - [Video Demo of SQLFiddle.com](https://www.youtube.com/watch?v=DDVOMRvyAS4)
+- Python & MySQL Documentation
+  - [MySQL Connector/Python Official Docs](http://dev.mysql.com/doc/connector-python/en/index.html)
 
-##### Python & MySQL Documentation
-
-- [MySQL Connector/Python Official Docs](http://dev.mysql.com/doc/connector-python/en/index.html)
-
-##### Amazon RDS Hosted SQL Service
-
-- [Amazon RDS](http://aws.amazon.com/rds/)
+- Amazon RDS Hosted SQL Service
+  - [Amazon RDS](http://aws.amazon.com/rds/)
   - [Amazon RDS Free Usage Tier](http://aws.amazon.com/rds/free/)
   - [Amazon RDS Getting Started](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html)
   - [Video Tutorial of RDS](https://www.youtube.com/watch?v=FLY87sQtEts)
