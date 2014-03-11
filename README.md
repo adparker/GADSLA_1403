@@ -72,6 +72,7 @@ Here, you'll find links to slides, handouts, and other material.
   - [Schema Design in MongoDB vs Schema Design in MySQL](http://www.mysqlperformanceblog.com/2013/08/01/schema-design-in-mongodb-vs-schema-design-in-mysql/)
 - [Redis](http://redis.io/) -- Key-Value Store
   - [Try Redis](http://try.redis.io/) An online interactive demo of Redis
+  - [Redis 101 Presentation](http://www.scribd.com/doc/33531219/Redis-Presentation)
 
 ### Class 5 (2014-03-18): Introduction to Machine Learning
 ### Class 6 (2014-03-20): Linear Regression
