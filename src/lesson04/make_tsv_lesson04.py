@@ -4,12 +4,13 @@
 # Usage:
 #  $ python make_tsv_lesson04.py > outfile.tsv
 
-import csv
+import codecs
 import datetime
+import json
 import sys 
 
 # Open and read in the file.
-fh = open('movies.small.txt')
+fh = codecs.open('movies.small.txt', 'r', 'utf-8', 'replace')
 lines = fh.readlines()
 fh.close()
 
@@ -73,16 +74,21 @@ for review in list_of_dicts:
     review['helpful'] = helpful_int
     review['total'] = numberof_int
 
-list_of_keys = list_of_dicts[0].keys()
+json.dump(list_of_dicts, sys.stdout)
+# for review in list_of_dicts:
+#     json.dump(review, sys.stdout)
 
-writer = csv.DictWriter(sys.stdout, # Write to standard out
-                        list_of_keys, # Print out all columns
-                        delimiter='\t',    # delimiter (separator)
-                        quotechar='\\',
-                        extrasaction='ignore')  # ignore columns in the dict if the are skipped
+# list_of_keys = list_of_dicts[0].keys()
 
-# Write the header
-writer.writeheader()   
+# writer = csv.DictWriter(sys.stdout, # Write to standard out
+#                         list_of_keys, # Print out all columns
+#                         delimiter='\t',    # delimiter (separator)
+#                         quotechar='\\',
+#                         extrasaction='ignore')  # ignore columns in the dict if the are skipped
 
-for review in list_of_dicts:
-    writer.writerow(review)
+# # Write the header
+# writer.writeheader()   
+
+# for review in list_of_dicts:
+#     writer.writerow(review)
+
