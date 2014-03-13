@@ -74,7 +74,7 @@ for review in list_of_dicts:
     review['helpful'] = helpful_int
     review['total'] = numberof_int
 
-json.dump(list_of_dicts, sys.stdout)
+json.dump(list_of_dicts, sys.stdout, indent = 2)
 # for review in list_of_dicts:
 #     json.dump(review, sys.stdout)
 
