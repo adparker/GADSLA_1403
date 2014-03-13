@@ -10,7 +10,7 @@ Here, you'll find links to slides, handouts, and other material.
 - March 4, 2014: First Day of Class
 
 ### Pre-work
-- [General Resources](https://github.com/adparker/GADSLA_1403/wiki/General-Resources): Links to Python and other tools and libraries that we'll be using.
+- [General Resources](https://github.com/adparker/GADSLA_1403/wiki/Lesson-00-General-Resources): Links to Python and other tools and libraries that we'll be using.
 
 ### Class 1 (2014-03-04): Introduction to Data Science & Basic Data Manipulation
 
@@ -18,7 +18,7 @@ Here, you'll find links to slides, handouts, and other material.
 - [Lesson 1 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson01.pdf?raw=true)
 
 #### Handouts
-- [Command Line Tutorial](https://github.com/adparker/GADSLA_1403/wiki/Command-line-tutorial)
+- [Command Line Tutorial](https://github.com/adparker/GADSLA_1403/wiki/Lesson-01-Command-line-tutorial)
 
 #### Links
 - [How to Start Thinking Like a Data Scientist](http://blogs.hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist/)
@@ -31,8 +31,8 @@ Here, you'll find links to slides, handouts, and other material.
 - [Lesson 2 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson02.pdf?raw=true)
 
 #### Handouts
-- [Python Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/Python-Tutorial-01)
-- [ETL Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/ETL-Tutorial-01--Amazon-Movie-Reviews)
+- [Python Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/Lesson-02-Python-Tutorial-01)
+- [ETL Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/Lesson-02-ETL-Tutorial-01-Amazon-Movie-Reviews)
 
 
 
@@ -42,8 +42,8 @@ Here, you'll find links to slides, handouts, and other material.
 - [Lesson 3 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson03.pdf?raw=true)
 
 #### Handouts
-- [MySQL Exercises using W3 School](https://github.com/adparker/GADSLA_1403/wiki/MySQL-Exercises-Using-W3-School)
-- [MySQL & Python Tutorial](https://github.com/adparker/GADSLA_1403/wiki/MySQL-5-Tutorial-01)
+- [MySQL Exercises using W3 School](https://github.com/adparker/GADSLA_1403/wiki/Lesson-03-MySQL-Exercises-Using-W3-School)
+- [MySQL & Python Tutorial](https://github.com/adparker/GADSLA_1403/wiki/Lesosn-03-MySQL-5-Tutorial-01)
 
 #### Links
 - SQL Tutorials
