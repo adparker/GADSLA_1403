@@ -68,6 +68,7 @@ Here, you'll find links to slides, handouts, and other material.
 - [Quick Comparison](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
 - [MongoDB](http://www.mongodb.com/) -- Document Store
   - [Try MongoDB](http://try.mongodb.org/) CURRENTLY NOT WORKING FOR ME. :( An online interactive demo of MongoDB
+  - [The Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book/blob/master/en/mongodb.markdown)
   - [Webinar Getting Started with MongoDB](http://www.mongodb.com/webinar/intro_mongodb_jan14)
   - [Schema Design in MongoDB vs Schema Design in MySQL](http://www.mysqlperformanceblog.com/2013/08/01/schema-design-in-mongodb-vs-schema-design-in-mysql/)
 - [Redis](http://redis.io/) -- Key-Value Store
