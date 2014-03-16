@@ -63,11 +63,9 @@ Here, you'll find links to slides, handouts, and other material.
 
 ### Class 4 (2014-03-13): NoSQL & Python
 #### Slides
-
 - [Lesson 4 Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson04.pdf?raw=true)
 
 #### Handouts
-
 - [Getting Started with MongoDB](https://github.com/adparker/GADSLA_1403/wiki/Lesson-04-Getting-Started-with-MongoDB)
 
 #### Links
@@ -84,7 +82,10 @@ Here, you'll find links to slides, handouts, and other material.
 
 ### Class 5 (2014-03-18): Introduction to Machine Learning
 #### Slides
+- [Lesson 5 Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson05.pdf)
+
 #### Handouts
+
 #### Links
 - [Scikit Learn](http://scikit-learn.org/stable/)
 - [Pandas](http://pandas.pydata.org/)
