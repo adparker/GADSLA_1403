@@ -92,7 +92,8 @@ Here, you'll find links to slides, handouts, and other material.
   - [Lahman Baseball Dataset](http://seanlahman.com/files/database/lahman-csv_2013-12-10.zip)
   - [Amazon Product Reviews, by Category](http://snap.stanford.edu/data/web-Amazon.html)
 - [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
-- 
+
+
 ---
 
 ### Class 6 (2014-03-20): Linear Regression
