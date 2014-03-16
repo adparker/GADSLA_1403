@@ -88,8 +88,6 @@ Here, you'll find links to slides, handouts, and other material.
 
 #### Links
 - [Scikit Learn](http://scikit-learn.org/stable/)
-- [Pandas](http://pandas.pydata.org/)
-  - [Introduction to Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
 - Data
   - [Lahman Baseball Dataset](http://seanlahman.com/files/database/lahman-csv_2013-12-10.zip)
   - [Amazon Product Reviews, by Category](http://snap.stanford.edu/data/web-Amazon.html)
@@ -97,6 +95,13 @@ Here, you'll find links to slides, handouts, and other material.
 ---
 
 ### Class 6 (2014-03-20): Linear Regression
+#### Slides
+#### Handouts
+#### Links
+- [Pandas](http://pandas.pydata.org/)
+  - [Introduction to Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
+
+
 ### Class 7 (2014-03-25): Logistic Regression & Regularization
 ### Class 8 (2014-03-27): Naive Bayes & Bayesian Estimators
 ### Class 9 (2014-04-01): Decision Trees and Random Forests
