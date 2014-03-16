@@ -60,9 +60,15 @@ Here, you'll find links to slides, handouts, and other material.
 - Something Funny
   - [Mom Exploits, XKCD Comic](http://xkcd.com/327/)
   
----
 
 ### Class 4 (2014-03-13): NoSQL & Python
+#### Slides
+
+- [Lesson 4 Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson04.pdf?raw=true)
+
+#### Handouts
+
+- [Getting Started with MongoDB](https://github.com/adparker/GADSLA_1403/wiki/Lesson-04-Getting-Started-with-MongoDB)
 
 #### Links
 - [Quick Comparison](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
@@ -75,7 +81,20 @@ Here, you'll find links to slides, handouts, and other material.
   - [Try Redis](http://try.redis.io/) An online interactive demo of Redis
   - [Redis 101 Presentation](http://www.scribd.com/doc/33531219/Redis-Presentation)
 
+
 ### Class 5 (2014-03-18): Introduction to Machine Learning
+#### Slides
+#### Handouts
+#### Links
+- [Scikit Learn](http://scikit-learn.org/stable/)
+- [Pandas](http://pandas.pydata.org/)
+  - [Introduction to Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
+- Data
+  - [Lahman Baseball Dataset](http://seanlahman.com/files/database/lahman-csv_2013-12-10.zip)
+  - [Amazon Product Reviews, by Category](http://snap.stanford.edu/data/web-Amazon.html)
+
+---
+
 ### Class 6 (2014-03-20): Linear Regression
 ### Class 7 (2014-03-25): Logistic Regression & Regularization
 ### Class 8 (2014-03-27): Naive Bayes & Bayesian Estimators
