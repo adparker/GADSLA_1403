@@ -86,11 +86,9 @@ Here, you'll find links to slides, handouts, and other material.
 #### Slides
 #### Handouts
 #### Links
-
 - [Scikit Learn](http://scikit-learn.org/stable/)
 - [Pandas](http://pandas.pydata.org/)
   - [Introduction to Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
-
 - [Data]
   - [Lahman Baseball Dataset](http://seanlahman.com/files/database/lahman-csv_2013-12-10.zip)
   - [Amazon Product Reviews, by Category](http://snap.stanford.edu/data/web-Amazon.html)
