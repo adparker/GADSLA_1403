@@ -97,7 +97,7 @@ Here, you'll find links to slides, handouts, and other material.
 - [Everpix](http://www.everpix.com/)
   - [Their story](http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup)
   - [Their data](https://github.com/everpix/Everpix-Intelligence)
-  - 
+
 
 ### Class 6 (2014-03-20): Linear Regression
 #### Slides
