@@ -108,7 +108,8 @@ Here, you'll find links to slides, handouts, and other material.
 
 
 #### Extra
-- [Player tracking transforming NBA analytics](http://espn.go.com/blog/playbook/tech/post/_/id/492/492)
+- [Player tracking transforming NBA analytics](http://espn.go.com/blog/playbook/tech/post/_/id/492/492) 
+
 ---
 
 ### Class 7 (2014-03-25): Logistic Regression & Regularization
