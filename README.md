@@ -85,6 +85,7 @@ Here, you'll find links to slides, handouts, and other material.
 - [Lesson 5 Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson05.pdf)
 
 #### Handouts
+- [Scikit Learn and K Nearest Neighbors](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/adparker/GADSLA_1403/master/src/lesson05/Scikit%20Learn%20and%20K%20Nearest%20Neighbors.ipynb?create=1)
 
 #### Links
 - [Scikit Learn](http://scikit-learn.org/stable/)
