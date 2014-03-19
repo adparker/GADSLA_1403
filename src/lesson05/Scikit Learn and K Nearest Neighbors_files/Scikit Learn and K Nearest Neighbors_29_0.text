@@ -1,0 +1,2 @@
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           n_neighbors=1, p=2, weights='uniform')
