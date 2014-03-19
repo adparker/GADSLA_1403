@@ -97,8 +97,7 @@ Here, you'll find links to slides, handouts, and other material.
 - [Everpix](http://www.everpix.com/)
   - [Their story](http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup)
   - [Their data](https://github.com/everpix/Everpix-Intelligence)
-
----
+  - 
 
 ### Class 6 (2014-03-20): Linear Regression
 #### Slides
@@ -107,6 +106,10 @@ Here, you'll find links to slides, handouts, and other material.
 - [Pandas](http://pandas.pydata.org/)
   - [Introduction to Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
 
+
+#### Extra
+- [Player tracking transforming NBA analytics](http://espn.go.com/blog/playbook/tech/post/_/id/492/492)
+---
 
 ### Class 7 (2014-03-25): Logistic Regression & Regularization
 ### Class 8 (2014-03-27): Naive Bayes & Bayesian Estimators
