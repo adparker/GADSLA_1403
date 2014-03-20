@@ -117,8 +117,8 @@ Here, you'll find links to slides, handouts, and other material.
 
 ---
 
-### Class 7 (2014-03-25): Logistic Regression & Regularization
-### Class 8 (2014-03-27): Naive Bayes & Bayesian Estimators
+### Class 7 (2014-03-25): Logistic Regression & Regularization (Project Outline Due!)
+### Class 8 (2014-03-27): Naive Bayes & Bayesian Estimators (Project Outline Discussion!)
 ### Class 9 (2014-04-01): Decision Trees and Random Forests
 ### Class 10 (2014-04-03): Classification Review
 ### Class 11 (2014-04-08): Ensemble Learning
@@ -132,4 +132,4 @@ Here, you'll find links to slides, handouts, and other material.
 ### Class 19 (2014-05-06):
 ### Class 20 (2014-05-08):
 ### Class 21 (2014-05-13):
-### Class 22 (2014-05-15):
+### Class 22 (2014-05-15): Final Presentations and Reports Due!
