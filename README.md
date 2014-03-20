@@ -4,6 +4,10 @@ General Assembly Data Science, Los Angeles, March 2014
 ------------------------------------------------------
 ## [Final Project Info](https://github.com/adparker/GADSLA_1403/wiki/Final-Project-Requirements)
 - Presentation and Report Due last day of class, Thursday May 15th.
+- [Project Ideas and Data](https://github.com/adparker/GADSLA_1403/wiki/Project-Ideas-and-Data)
+
+### Useful Books
+- [A list of useful books](https://github.com/adparker/GADSLA_1403/wiki/Books)
 
 ### General Info
 Here, you'll find links to slides, handouts, and other material.
