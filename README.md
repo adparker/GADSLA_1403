@@ -108,7 +108,7 @@ Here, you'll find links to slides, handouts, and other material.
   - [Their data](https://github.com/everpix/Everpix-Intelligence)
 
 
-### Class 6 (2014-03-20): Linear Regression
+### Class 6 (2014-03-20): Linear Regression and Regularization
 #### Slides
 - [Lesson 6 Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson06_regression_and_regularization.pdf?raw=true)
 
