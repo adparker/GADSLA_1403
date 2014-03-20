@@ -110,6 +110,8 @@ Here, you'll find links to slides, handouts, and other material.
 
 ### Class 6 (2014-03-20): Linear Regression
 #### Slides
+- [Lesson 6 Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson06_regression_and_regularization.pdf?raw=true)
+
 #### Handouts
 #### Links
 - [Pandas](http://pandas.pydata.org/)
