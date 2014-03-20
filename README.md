@@ -118,10 +118,10 @@ Here, you'll find links to slides, handouts, and other material.
   - [Introduction to Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
 - [Patsy](http://patsy.readthedocs.org/en/latest/)
   - Patsy is a Python package for describing statistical models (especially linear models, or models that have a linear component) and building design matrices.
-
+- [Introduction to Linear Regression](http://www.openintro.org/download.php?file=os2_07&referrer=/stat/textbook/textbook_os2_chapters.php) from [OpenIntro.org](http://openintro.org/)
 
 #### Extra
-- [Player tracking transforming NBA analytics](http://espn.go.com/blog/playbook/tech/post/_/id/492/492) 
+- [Player tracking transforming NBA analytics](http://espn.go.com/blog/playbook/tech/post/_/id/492/492)
 
 ---
 
