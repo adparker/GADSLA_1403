@@ -113,6 +113,8 @@ Here, you'll find links to slides, handouts, and other material.
 - [Lesson 6 Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson06_regression_and_regularization.pdf?raw=true)
 
 #### Handouts
+- [Linear Regression and Regularization](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/adparker/GADSLA_1403/master/src/lesson06/Linear%20Regression.ipynb?create=1)
+
 #### Links
 - [Pandas](http://pandas.pydata.org/)
   - [Introduction to Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
