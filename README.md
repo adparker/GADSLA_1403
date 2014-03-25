@@ -21,30 +21,9 @@ Here, you'll find links to slides, handouts, and other material.
 ### Pre-work
 - [General Resources](https://github.com/adparker/GADSLA_1403/wiki/Lesson-00-General-Resources): Links to Python and other tools and libraries that we'll be using.
 
-### Class 1 (2014-03-04): Introduction to Data Science & Basic Data Manipulation
+### Class 1 (2014-03-04): [Introduction to Data Science & Basic Data Manipulation](https://github.com/adparker/GADSLA_1403/wiki/Lesson-01-2014-03-04)
 
-#### Slides
-- [Lesson 1 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson01.pdf?raw=true)
-
-#### Handouts
-- [Command Line Tutorial](https://github.com/adparker/GADSLA_1403/wiki/Lesson-01-Command-line-tutorial)
-
-#### Links
-- [How to Start Thinking Like a Data Scientist](http://blogs.hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist/)
-- [Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
-- [Command-Line Data Manipulation](http://planspace.org/2013/05/21/command-line-data-manipulation/)
-
-### Class 2 (2014-03-06): Python & Data Parsing
-
-#### Slides
-- [Lesson 2 PDF Slides](https://github.com/adparker/GADSLA_1403/blob/master/slides/gadsla_1403_lesson02.pdf?raw=true)
-
-#### Handouts
-- [Python Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/Lesson-02-Python-Tutorial-01)
-- [ETL Tutorial 1](https://github.com/adparker/GADSLA_1403/wiki/Lesson-02-ETL-Tutorial-01-Amazon-Movie-Reviews)
-
-
-
+### Class 2 (2014-03-06): [Python & Data Parsing](https://github.com/adparker/GADSLA_1403/wiki/Lesson-02-2014-03-06)
 ### Class 3 (2014-03-11): SQL & Python
 
 #### Slides
