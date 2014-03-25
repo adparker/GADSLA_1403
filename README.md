@@ -21,9 +21,10 @@ Here, you'll find links to slides, handouts, and other material.
 ### Pre-work
 - [General Resources](https://github.com/adparker/GADSLA_1403/wiki/Lesson-00-General-Resources): Links to Python and other tools and libraries that we'll be using.
 
-### Class 1 (2014-03-04): [Introduction to Data Science & Basic Data Manipulation](https://github.com/adparker/GADSLA_1403/wiki/Lesson-01-2014-03-04)
+### Class 1 (2014-03-04): [Introduction to Data Science & Basic Data Manipulation](https://github.com/adparker/GADSLA_1403/wiki/Lesson-01-Introduction-to-Data-Science-&-Basic-Data-Manipulation)
 
-### Class 2 (2014-03-06): [Python & Data Parsing](https://github.com/adparker/GADSLA_1403/wiki/Lesson-02-2014-03-06)
+### Class 2 (2014-03-06): [Python & Data Parsing](https://github.com/adparker/GADSLA_1403/wiki/Lesson-02-Python-&-Data-Parsing)
+
 ### Class 3 (2014-03-11): SQL & Python
 
 #### Slides
