@@ -27,7 +27,7 @@ Here, you'll find links to slides, handouts, and other material.
 #### Class 4 (2014-03-13): [NoSQL & Python](https://github.com/adparker/GADSLA_1403/wiki/Lesson-04-NoSQL-&-Python)
 #### Class 5 (2014-03-18): [Introduction to Machine Learning](https://github.com/adparker/GADSLA_1403/wiki/Lesson-05-Introduction-to-Machine-Learning)
 #### Class 6 (2014-03-20): [Linear Regression and Regularization](https://github.com/adparker/GADSLA_1403/wiki/Lesson-06-Linear-Regression-and-Regularization)
-#### Class 7 (2014-03-25): Logistic Regression (Project Outline Due!)
+#### Class 7 (2014-03-25): [Logistic Regression](https://github.com/adparker/GADSLA_1403/wiki/Lesson-07-Logistic-Regression) (Project Outline Due!)
 ---
 
 #### Class 8 (2014-03-27): Naive Bayes & Bayesian Estimators (Project Outline Discussion!)
