@@ -28,10 +28,9 @@ Here, you'll find links to slides, handouts, and other material.
 #### Class 5 (2014-03-18): [Introduction to Machine Learning](https://github.com/adparker/GADSLA_1403/wiki/Lesson-05-Introduction-to-Machine-Learning)
 #### Class 6 (2014-03-20): [Linear Regression and Regularization](https://github.com/adparker/GADSLA_1403/wiki/Lesson-06-Linear-Regression-and-Regularization)
 #### Class 7 (2014-03-25): [Logistic Regression](https://github.com/adparker/GADSLA_1403/wiki/Lesson-07-Logistic-Regression) (Project Outline Due!)
----
-
-#### Class 8 (2014-03-27): Naive Bayes & Bayesian Estimators (Project Outline Discussion!)
+#### Class 8 (2014-03-27): [Naive Bayes & Bayesian Estimators](https://github.com/adparker/GADSLA_1403/wiki/Lesson-08-Naive-Bayes) (Project Outline Discussion!)
 #### Class 9 (2014-04-01): Decision Trees and Random Forests
+---
 #### Class 10 (2014-04-03): Classification Review
 #### Class 11 (2014-04-08): Ensemble Learning
 #### Class 12 (2014-04-10): K-Means Clustering
