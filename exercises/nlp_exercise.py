@@ -5,7 +5,7 @@ questions I ask entry-level data science candidates at Whisper.
 In each of the parts below, I have provided a function definition (with the
 correct arguments but no implementation) and some tests that will pass *if* 
 you fill in the correct implementation for each function. If you run this file
- (i.e. run `python nlp_exercise.py from your shell) and it does not throw
+ (i.e. run `python nlp_exercise.py` from your shell) and it does not throw
  any errors, then you have finished the exercise!
 '''
 
