@@ -39,7 +39,7 @@ Here, you'll find links to slides, handouts, and other material.
 #### Class 15 (2014-04-22): Further Topics in Unsupervised Learning
 #### Class 16 (2014-04-24): Hadoop
 #### Class 17 (2014-04-29): Distributed Data Processing
-#### Class 18 (2014-05-01):
+#### Class 18 (2014-05-01): Data Visualization
 #### Class 19 (2014-05-06):
 #### Class 20 (2014-05-08):
 #### Class 21 (2014-05-13):
