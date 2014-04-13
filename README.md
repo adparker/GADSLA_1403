@@ -40,7 +40,7 @@ Here, you'll find links to slides, handouts, and other material.
 #### Class 16 (2014-04-24): Model Selection and Evaluation
 #### Class 17 (2014-04-29): Speaker (Datasift) & Dataset Transformation
 #### Class 18 (2014-05-01): Data Visualization
-#### Class 19 (2014-05-06): Hadoop
+#### Class 19 (2014-05-06): Pre-class Resume Prep & Hadoop
 #### Class 20 (2014-05-08): Distributed Data Processing
 #### Class 21 (2014-05-13):
 #### Class 22 (2014-05-15): Final Presentations and Reports!
