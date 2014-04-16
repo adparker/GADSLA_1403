@@ -33,8 +33,8 @@ Here, you'll find links to slides, handouts, and other material.
 #### Class 10 (2014-04-03): [Classification Review](https://github.com/adparker/GADSLA_1403/wiki/Lesson-10-Classification-Review)
 #### Class 11 (2014-04-08): [Ensemble Learning](https://github.com/adparker/GADSLA_1403/wiki/Lesson-11-Ensemble-Learning)
 #### Class 12 (2014-04-10): [K-Means Clustering](https://github.com/adparker/GADSLA_1403/wiki/Lesson-12-K-Means-Clustering)
+#### Class 13 (2014-04-15): [PCA & Unsupervised Learning](https://github.com/adparker/GADSLA_1403/wiki/Lesson-13-PCA-and-Unsupervised)
 ---
-#### Class 13 (2014-04-15): PCA & Unsupervised Learning
 #### Class 14 (2014-04-17): Recommendation Systems
 #### Class 15 (2014-04-22): Further Topics in Unsupervised Learning
 #### Class 16 (2014-04-24): Model Selection and Evaluation
