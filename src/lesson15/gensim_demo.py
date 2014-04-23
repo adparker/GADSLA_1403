@@ -17,8 +17,9 @@ categories = ['alt.atheism',
               'sci.med']
 twenty_train = fetch_20newsgroups(subset='train', categories=categories, shuffle=True, random_state=42)
 # documents is just a list of strings.
-#documents = twenty_train.data[:1000]
-documents = twenty_train.data
+# Just get the first 200 documents (out of ~2500 documents)
+documents = twenty_train.data[:200]
+# documents = twenty_train.data
 
 # remove common words and tokenize
 # you will have to run nltk.download()
@@ -65,7 +66,7 @@ corpus_tfidf = tfidf[corpus]  # step 2 -- use the model to transform bunch of ve
 
 #### LSI
 # Now let's try Latent Sementic Analysis (LSA) to transform documents into 2D space.
-lsi = models.LsiModel(corpus_tfidf, id2word=dictionary, num_topics=5) # initialize an LSI transformation
+lsi = models.LsiModel(corpus_tfidf, id2word=dictionary, num_topics=20) # initialize an LSI transformation
 corpus_lsi = lsi[corpus_tfidf] # create a double wrapper over the original corpus: bow->tfidf->fold-in-lsi
 
 # It's easy to see what words contribute to the two dimensions.
@@ -74,3 +75,25 @@ corpus_lsi = lsi[corpus_tfidf] # create a double wrapper over the original corpu
 
 #### LDA
 lda = models.LdaModel(corpus, id2word=dictionary, num_topics=20, passes=20, iterations=500)
+
+#### Similarity queries
+doc = "jesus pope"
+
+#### vector bag-of-words
+vec_bow = dictionary.doc2bow(doc.lower().split())
+
+vec_lsi = lsi[vec_bow] # convert the query to LSI space
+print vec_lsi
+
+vec_lda = lda[vec_bow] # convert the query to LDA space
+print vec_lda
+
+##### Initializing query structures:
+
+# Uses cosine measure
+index = similarities.MatrixSimilarity(lda[corpus]) # Transform corpus to LDA space
+
+sims = index[vec_lda] # perform a similarity query against the corpus
+sims_sorted = sorted(enumerate(sims), key=lambda item: -item[1])
+print(sims_sorted)
+
