@@ -30,7 +30,6 @@ class FileReader(object):
     '''A simple object that takes a filename as input'''
 
     def __init__(self, filename):
-        self.filename = filename
         self.infile = open(filename)
             
     def __iter__(self):
@@ -45,3 +44,10 @@ class FileReader(object):
         self.infile.close()
              
     
+def file_reader_generator(filename):
+    with open(filename) as infile:
+        for line in infile:
+            whisper_id, text = infile.next().split(',', 1)
+            trimmed = text.strip()[1:-1]
+            yield [Word(w) for w in trimmed.split()]
+
