@@ -35,9 +35,9 @@ Here, you'll find links to slides, handouts, and other material.
 #### Class 12 (2014-04-10): [K-Means Clustering](https://github.com/adparker/GADSLA_1403/wiki/Lesson-12-K-Means-Clustering)
 #### Class 13 (2014-04-15): [PCA & Unsupervised Learning](https://github.com/adparker/GADSLA_1403/wiki/Lesson-13-PCA-and-Unsupervised)
 #### Class 14 (2014-04-17): [Recommendation Systems](https://github.com/adparker/GADSLA_1403/wiki/Lesson-14-Recommendation-Systems)
+#### Class 15 (2014-04-22): [Further Topics in Unsupervised Learning](https://github.com/adparker/GADSLA_1403/wiki/Lesson-15-Further-Topics-in-Unsupervised-Learning]
+#### Class 16 (2014-04-24): [Model Selection and Evaluation](https://github.com/adparker/GADSLA_1403/wiki/Lesson-16-Model-Selection-and-Evaluation)
 ---
-#### Class 15 (2014-04-22): Further Topics in Unsupervised Learning
-#### Class 16 (2014-04-24): Model Selection and Evaluation
 #### Class 17 (2014-04-29): Speaker (Datasift) & Dataset Transformation
 #### Class 18 (2014-05-01): Data Visualization
 #### Class 19 (2014-05-06): Pre-class Resume Prep & Hadoop
