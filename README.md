@@ -42,8 +42,8 @@ Here, you'll find links to slides, handouts, and other material.
 - Class 17 (2014-04-29): Dataset Transformation (Speaker from Datasift)
 - Class 18 (2014-05-01): Data Visualization
 - Class 19 (2014-05-06): Hadoop (Pre-class Resume Prep - Students need to email Daniel)
-- Class 20 (2014-05-08): Distributed Data Processing
-- Class 21 (2014-05-13):
+- Class 20 (2014-05-08): Field Trip to Factual!!!!
+- Class 21 (2014-05-13): Distributed Data Processing
 - Class 22 (2014-05-15): Final Presentations and Reports!
 
 ---
