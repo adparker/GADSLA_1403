@@ -37,9 +37,8 @@ Here, you'll find links to slides, handouts, and other material.
 - Class 14 (2014-04-17): [Recommendation Systems](https://github.com/adparker/GADSLA_1403/wiki/Lesson-14-Recommendation-Systems)
 - Class 15 (2014-04-22): [Further Topics in Unsupervised Learning](https://github.com/adparker/GADSLA_1403/wiki/Lesson-15-Further-Topics-in-Unsupervised-Learning)
 - Class 16 (2014-04-24): [Model Selection and Evaluation](https://github.com/adparker/GADSLA_1403/wiki/Lesson-16-Model-Selection-and-Evaluation)
-
+- Class 17 (2014-04-29): [Dataset Transformation](https://github.com/adparker/GADSLA_1403/wiki/Lesson-17-Dataset-Transformations) (Speaker from Datasift)
 ---
-- Class 17 (2014-04-29): Dataset Transformation (Speaker from Datasift)
 - Class 18 (2014-05-01): Data Visualization
 - Class 19 (2014-05-06): Hadoop (Pre-class Resume Prep - Students need to email Daniel)
 - Class 20 (2014-05-08): **Field Trip to Factual!!!!**
