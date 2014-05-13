@@ -40,12 +40,12 @@ Here, you'll find links to slides, handouts, and other material.
 - Class 17 (2014-04-29): [Dataset Transformation](https://github.com/adparker/GADSLA_1403/wiki/Lesson-17-Dataset-Transformations) (Speaker from Datasift)
 - Class 18 (2014-05-01): [Data Visualization](https://github.com/adparker/GADSLA_1403/wiki/Lesson-18-Data-Visualization)
 - Class 19 (2014-05-06): [Hadoop](https://github.com/adparker/GADSLA_1403/wiki/Lesson-19-Map-Reduce-and-Hadoop) (Pre-class Resume Prep - Students need to email Daniel)
+- Class 20 (2014-05-08): **Field Trip to Factual!!!!**
+- Class 21 (2014-05-13): Distributed Data Processing
  
 ---
 
-- Class 20 (2014-05-08): **Field Trip to Factual!!!!**
-- Class 21 (2014-05-13): Distributed Data Processing
-- Class 22 (2014-05-15): Final Presentations and Reports!
+- Class 22 (2014-05-15): Guest Speaker: Eduardo Arino de la Rubia and Final Presentations and Reports!
 
 ---
 - Post-Class (2014-05-22): Data Science Career Panel
