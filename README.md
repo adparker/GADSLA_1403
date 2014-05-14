@@ -41,7 +41,7 @@ Here, you'll find links to slides, handouts, and other material.
 - Class 18 (2014-05-01): [Data Visualization](https://github.com/adparker/GADSLA_1403/wiki/Lesson-18-Data-Visualization)
 - Class 19 (2014-05-06): [Hadoop](https://github.com/adparker/GADSLA_1403/wiki/Lesson-19-Map-Reduce-and-Hadoop) (Pre-class Resume Prep - Students need to email Daniel)
 - Class 20 (2014-05-08): **Field Trip to Factual!!!!**
-- Class 21 (2014-05-13): Distributed Data Processing
+- Class 21 (2014-05-13): [Distributed Data Processing with BDAS and Spark](https://github.com/adparker/GADSLA_1403/wiki/Lesson-20-Distributed-Processing-with-Spark)
  
 ---
 
